@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.0.1_1ba58bcb9930fe0512b338ce6c5b622bd33bf02a.jar" />
+    </item>
+    <item
+        jar="/Users/tune/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/jsr305-2.0.1_8f8a073223c1bbd7fdfeb707589518df70fb8b5b.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/android-sliding-up-panel-master-8129831576/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="975e09eb360f12d7fafe0a1fd5066e43b9d8c9ab">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-android-sliding-up-panel-master-8129831576_8137307b025c0df70bb403456e65f49296179301.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/third_party/svg-android/libs/svg-android-2.0.7-20150515.214425-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6d63d23b0eee491c984e942cfe4903e735d45711">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/svg-android-2.0.7-20150515.214425-1_af9611d39908eabe66c7263419f03ba361e3a40d.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/libs/gcm.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c176ef93e24088d34cad49dee9420b05d4a8ada">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/gcm_35b5d7313cef4212d0ecc9f2820f9c90ed99d2d2.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_afc65447f474330b68794834f496e25dc8975291.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/com.google.maps.android-android-maps-utils-0.3.4_a7f3eb201f5a5660bd004dac9f0a84f4ae9870c9.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_49b974fe736fad0f58f0f390cfcf3c3b7ad2f0fa.jar" />
+    </item>
+    <item
+        jar="/Users/tune/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/guava-18.0_b26e9faa5082406431eeab8e17d04504fc12ce46.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-7.0.0_6b5bd229adb839f489f6fd7808cdc3d9d596ad96.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/third_party/volley/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f2eb3ac285708f320b3a1eb753332b796dc89a4a">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/volley_489118c864519664826530588123ee6a0b30e26f.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_98b8b3e284c679f22c9e9f4e06069a00920c79b5.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/third_party/disklrucache/libs/disklrucache-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e8b8ae20dc00e08e274a5f8d6578b370a9393e61">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/disklrucache-2.0.2_4b1715a59363718287bf94d365f138afb934cf33.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/third_party/basic-http-client/libs/basic-http-client-android-0.88.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="62aa3f0df0148b934c29a8085d01e9839955e06e">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/basic-http-client-android-0.88_fffd332aa10a60d2a04e94c3cf2080caa2426a74.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7cc4b00df8357dabd613998c9229ace9bba26ee2">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/com.android.support.test.espresso-espresso-idling-resource-2.0_462db8b14c385a9dcf829d943d104011e435f6bb.jar" />
+    </item>
+    <item
+        jar="/Users/tune/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/glide-3.5.2_9427d13aec075e186ee1f9cd6483471627c4b96b.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/com.android.support-design-23.0.1_a02319f7032dd99f30a31e897be29b2ea087d08e.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-7.0.0_0b73bb9f44160adcdfbd0dcf49ff6d85cf56e72c.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-7.0.0_e55a097dcbb2ee5c1ab671dda2c51ead44df9381.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c046c952177602c858ed41c8fc492c939bde9aa">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.0.1_c92503ffee73240bca257116f87b288d6d561778.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-7.0.0_110de6ace645a70cf75d3acedfe77201744460a2.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0c456a59e1edab84702b48a626705aa1d830ccc">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_167c994b5b16008d991416aa976bafc8074fe833.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-7.0.0_77d0d5f996f3751d1d8cd9a9d395fe09ed3f2285.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-7.0.0_9c97ba8978123574592f0b330a088eb89691e275.jar" />
+    </item>
+    <item
+        jar="/Users/tune/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/gson-2.3_d43fdd0a6b2e8079b21cf868e0da0765ef4fd248.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_69a5c230f1a76d07f8da5f4382fb7f637ea73dbf.jar" />
+    </item>
+    <item
+        jar="/Users/tune/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_39b01d59258d878b79b8131fd8fcd9bee4e6d71e.jar" />
+    </item>
+
+</items>

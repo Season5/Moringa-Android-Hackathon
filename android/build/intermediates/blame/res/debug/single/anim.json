@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/anim/image_fade_in.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/anim/image_fade_in.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/anim/image_fade_in.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/anim/image_fade_in.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/anim/image_fade_in.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/anim/image_fade_in.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/anim/design_fab_out.xml"
+    }
+]

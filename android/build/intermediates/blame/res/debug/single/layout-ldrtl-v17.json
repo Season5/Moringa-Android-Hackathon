@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout-ldrtl-v17/explore_io_card_header_with_button.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout-ldrtl/explore_io_card_header_with_button.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout-ldrtl-v17/explore_io_card_header_with_button.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout-ldrtl/explore_io_card_header_with_button.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout-ldrtl-v17/explore_io_card_header_with_button.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout-ldrtl/explore_io_card_header_with_button.xml"
+    }
+]

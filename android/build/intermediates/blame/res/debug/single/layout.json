@@ -1,0 +1,1622 @@
+[
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/list_item_session_summarized.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/list_item_session_summarized.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/map_frag.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/map_frag.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/debug_act.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/debug_act.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/debug_act.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/debug_act.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/social_icons_vertical.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/social_icons_vertical.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/settings_act.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/settings_act.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/map_frag.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/map_frag.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/list_item_session.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/list_item_session.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/fragment_session_summary.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/fragment_session_summary.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/toolbar_actionbar_with_headerbar.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/toolbar_actionbar_with_headerbar.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/explore_io_card_header_with_button.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/explore_io_card_header_with_button.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/card_header_with_button.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/card_header_with_button.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/list_item_session_hero_narrow.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/list_item_session_hero_narrow.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/list_item_search_result.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/list_item_search_result.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/session_feedback_frag.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/session_feedback_frag.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/video_library_filter_radio_button.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/video_library_filter_radio_button.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/widget.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/widget.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/list_item_session_hero_wide.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/list_item_session_hero_wide.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/include_session_tag_chip.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/include_session_tag_chip.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/list_item_hashtags.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/list_item_hashtags.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/my_schedule_item.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/my_schedule_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/list_item_session_link.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/list_item_session_link.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/welcome_attending_fragment.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/welcome_attending_fragment.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/navdrawer.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/navdrawer.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/navview_header_view.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/navview_header_view.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/welcome_conduct_fragment.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/welcome_conduct_fragment.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/reserve_action_bar_space_header_view.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/reserve_action_bar_space_header_view.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/social_act.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/social_act.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/fragment_edit_note.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/fragment_edit_note.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/session_feedback_act.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/session_feedback_act.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/include_add_schedule_fab.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/include_add_schedule_fab.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/session_feedback_act.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/session_feedback_act.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/explore_sessions_list_item.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/explore_sessions_list_item.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/my_schedule_item.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/my_schedule_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/speaker_detail.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/speaker_detail.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/session_detail_act.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/session_detail_act.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/map_info_inline.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/map_info_inline.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/debug_frag.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/debug_frag.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/fragment_my_schedule.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/fragment_my_schedule.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/video_library_filter_panel.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/video_library_filter_panel.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/fragment_edit_note.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/fragment_edit_note.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/explore_sessions_list_item.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/explore_sessions_list_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/tab_my_schedule.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/tab_my_schedule.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/activity_my_schedule_wide.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/activity_my_schedule_wide.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/debug_frag.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/debug_frag.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/welcome_account_fragment.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/welcome_account_fragment.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/include_session_tag_chip.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/include_session_tag_chip.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/activity_singlepane_empty.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/activity_singlepane_empty.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/list_item_hashtag_hero.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/list_item_hashtag_hero.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/social_frag.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/social_frag.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/navdrawer_separator.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/navdrawer_separator.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/card_header_with_button.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/card_header_with_button.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/list_item_session_hero_wide.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/list_item_session_hero_wide.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/navdrawer_separator.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/navdrawer_separator.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/card_header_with_button.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/card_header_with_button.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/deprecated_include_butter_bar.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/deprecated_include_butter_bar.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/list_item_search_result.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/list_item_search_result.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/explore_sessions_frag.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/explore_sessions_frag.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/widget.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/widget.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/map_act.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/map_act.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/activity_my_schedule_wide.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/activity_my_schedule_wide.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/welcome_tos_fragment.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/welcome_tos_fragment.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/list_item_hashtags.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/list_item_hashtags.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/include_live_now_badge.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/include_live_now_badge.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/fragment_session_summary.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/fragment_session_summary.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/video_library_filter_panel.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/video_library_filter_panel.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/welcome_tos_fragment.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/welcome_tos_fragment.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/explore_io_topic_theme_livestream_item.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/explore_io_topic_theme_livestream_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/toolbar_actionbar_keyline_insets.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/toolbar_actionbar_keyline_insets.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/fragment_session_captions.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/fragment_session_captions.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/explore_io_frag.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/explore_io_frag.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/navdrawer.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/navdrawer.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/widget_schedule_header.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/widget_schedule_header.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/video_lib_card_container.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/video_lib_card_container.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/social_act.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/social_act.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/list_item_account.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/list_item_account.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/social_frag.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/social_frag.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/explore_sessions_act_alt_drawer_layout.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/explore_sessions_act_alt_drawer_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/social_act.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/social_act.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/map_info_bottom.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/map_info_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/explore_io_topic_theme_livestream_item.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/explore_io_topic_theme_livestream_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/video_library_act.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/video_library_act.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/activity_my_schedule_narrow.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/activity_my_schedule_narrow.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/explore_io_keynote_stream_item.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/explore_io_keynote_stream_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/session_feedback_frag.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/session_feedback_frag.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/session_detail_act.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/session_detail_act.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/tab_indicator.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/tab_indicator.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/map_info_bottom.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/map_info_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/widget.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/widget.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/navdrawer_item_view.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/navdrawer_item_view.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/activity_debug_action_showdrivefiles.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/activity_debug_action_showdrivefiles.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/explore_io_message_card_item.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/explore_io_message_card_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/explore_sessions_list_item_alt_header.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/explore_sessions_list_item_alt_header.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/welcome_attending_fragment.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/welcome_attending_fragment.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/message_card.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/message_card.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/activity_search.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/activity_search.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/list_item_session_link.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/list_item_session_link.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/map_frag.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/map_frag.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/include_link_row.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/include_link_row.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/social_frag.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/social_frag.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/explore_sessions_list_item_alt_drawer.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/explore_sessions_list_item_alt_drawer.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/fragment_session_captions.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/fragment_session_captions.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/speaker_detail.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/speaker_detail.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/include_more_button.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/include_more_button.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/explore_sessions_act_alt_drawer_layout.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/explore_sessions_act_alt_drawer_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/session_detail_frag.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/session_detail_frag.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/video_library_item.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/video_library_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/widget_schedule_item.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/widget_schedule_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/include_topic_more_button.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/include_topic_more_button.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/settings_act.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/settings_act.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/session_feedback_frag.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/session_feedback_frag.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/toolbar_actionbar.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/toolbar_actionbar.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/video_library_filtered_act.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/video_library_filtered_act.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/fragment_my_schedule.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/fragment_my_schedule.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/explore_io_topic_theme_livestream_item.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/explore_io_topic_theme_livestream_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/map_info_content.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/map_info_content.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/tab_my_schedule.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/tab_my_schedule.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/message_card.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/message_card.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/video_library_filtered_act.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/video_library_filtered_act.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/speaker_detail.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/speaker_detail.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/debug_act.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/debug_act.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/explore_sessions_list_item_alt_drawer.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/explore_sessions_list_item_alt_drawer.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/social_icons_horizontal.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/social_icons_horizontal.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/explore_sessions_frag.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/explore_sessions_frag.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/video_lib_card_container.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/video_lib_card_container.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/session_detail_frag.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/session_detail_frag.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/activity_welcome.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/list_item_explore_header.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/list_item_explore_header.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/explore_io_keynote_stream_item.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/explore_io_keynote_stream_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/include_topic_more_button.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/include_topic_more_button.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/activity_debug_action_showdrivefiles.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/activity_debug_action_showdrivefiles.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/explore_sessions_frag.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/explore_sessions_frag.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/text_bubble.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3.4/res/layout/text_bubble.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/welcome_conduct_fragment.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/welcome_conduct_fragment.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/social_icons_horizontal.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/social_icons_horizontal.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/include_link_row.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/include_link_row.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/settings_act.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/settings_act.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/toolbar_actionbar_keyline_insets.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/toolbar_actionbar_keyline_insets.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/map_item_session.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/map_item_session.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/explore_io_topic_theme_livestream_card_container.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/explore_io_topic_theme_livestream_card_container.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/include_more_button.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/include_more_button.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/explore_sessions_act_alt_drawer_layout.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/explore_sessions_act_alt_drawer_layout.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/video_library_frag.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/video_library_frag.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/fragment_session_summary.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/fragment_session_summary.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/tab_indicator.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/tab_indicator.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/list_item_account.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/list_item_account.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/activity_debug_action_showdrivefiles.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/activity_debug_action_showdrivefiles.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/include_live_now_badge.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/include_live_now_badge.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/fragment_session_captions.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/fragment_session_captions.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/video_library_filter_panel.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/video_library_filter_panel.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/activity_singlepane_empty.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/activity_singlepane_empty.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/video_library_item.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/video_library_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/include_add_schedule_fab.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/include_add_schedule_fab.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/debug_frag.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/debug_frag.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/navview_header_view.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/navview_header_view.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/video_library_act.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/video_library_act.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/list_item_search_result.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/list_item_search_result.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/explore_io_card_container.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/explore_io_card_container.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/list_item_account.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/list_item_account.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/list_item_session_hero_narrow.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/list_item_session_hero_narrow.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/explore_io_frag.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/explore_io_frag.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/list_item_hashtag_hero.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/list_item_hashtag_hero.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/explore_sessions_list_item_livestream_alt_drawer.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/explore_sessions_list_item_livestream_alt_drawer.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/explore_sessions_act.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/explore_sessions_act.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/video_library_filter_radio_button.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/video_library_filter_radio_button.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/activity_my_schedule_wide.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/activity_my_schedule_wide.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/list_item_session_link.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/list_item_session_link.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/text_bubble.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3.4/res/layout/text_bubble.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/list_item_session_summarized.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/list_item_session_summarized.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/include_session_tag_chip.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/include_session_tag_chip.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/list_item_session_summarized.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/list_item_session_summarized.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/map_info_inline.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/map_info_inline.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/navdrawer_separator.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/navdrawer_separator.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/video_library_act.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/video_library_act.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/explore_io_topic_theme_livestream_card_container.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/explore_io_topic_theme_livestream_card_container.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/session_detail_act.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/session_detail_act.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/activity_search.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/activity_search.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/activity_my_schedule_narrow.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/activity_my_schedule_narrow.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/explore_sessions_list_item.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/explore_sessions_list_item.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/explore_io_act.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/explore_io_act.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/map_act.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/map_act.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/widget_schedule_item.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/widget_schedule_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/navdrawer_item.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/navdrawer_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/include_add_schedule_fab.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/include_add_schedule_fab.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/list_item_session.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/list_item_session.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/activity_singlepane_empty.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/activity_singlepane_empty.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/navdrawer_item.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/navdrawer_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/toolbar_actionbar_keyline_insets.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/toolbar_actionbar_keyline_insets.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/fragment_edit_note.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/fragment_edit_note.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/explore_sessions_list_item_livestream_alt_drawer.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/explore_sessions_list_item_livestream_alt_drawer.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/navview_header_view.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/navview_header_view.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/welcome_account_fragment.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/welcome_account_fragment.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/toolbar_actionbar.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/toolbar_actionbar.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/activity_search.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/activity_search.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/list_item_session_hero_wide.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/list_item_session_hero_wide.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/explore_io_card_container.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/explore_io_card_container.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/session_detail_frag.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/session_detail_frag.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/list_item_session.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/list_item_session.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/navdrawer_item_view.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/navdrawer_item_view.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/video_library_frag.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/video_library_frag.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/explore_io_message_card_item.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/explore_io_message_card_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/activity_my_schedule_narrow.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/activity_my_schedule_narrow.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/map_info_inline.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/map_info_inline.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/include_live_now_badge.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/include_live_now_badge.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/navdrawer.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/navdrawer.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/text_bubble.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3.4/res/layout/text_bubble.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/my_schedule_item.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/my_schedule_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/map_act.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/map_act.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/map_item_session.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/map_item_session.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/widget_schedule_header.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/widget_schedule_header.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/deprecated_include_butter_bar.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/deprecated_include_butter_bar.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/map_info_content.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/map_info_content.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/explore_io_card_header_with_button.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/explore_io_card_header_with_button.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/video_library_filter_radio_button.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/video_library_filter_radio_button.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/list_item_hashtag_hero.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/list_item_hashtag_hero.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/message_card.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/message_card.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/explore_sessions_list_item_alt_header.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/explore_sessions_list_item_alt_header.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/activity_welcome.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/map_item_session.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/map_item_session.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/video_lib_card_container.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/video_lib_card_container.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/video_library_frag.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/video_library_frag.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/deprecated_include_butter_bar.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/deprecated_include_butter_bar.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/list_item_explore_header.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/list_item_explore_header.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/explore_sessions_act.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/explore_sessions_act.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/toolbar_actionbar_with_headerbar.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/toolbar_actionbar_with_headerbar.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/navdrawer_item_view.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/navdrawer_item_view.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/welcome_conduct_fragment.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/welcome_conduct_fragment.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/explore_io_topic_theme_livestream_card_container.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/explore_io_topic_theme_livestream_card_container.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/welcome_account_fragment.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/welcome_account_fragment.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/navdrawer_item.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/navdrawer_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/social_icons_horizontal.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/social_icons_horizontal.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/include_link_row.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/include_link_row.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/explore_io_message_card_item.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/explore_io_message_card_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/explore_sessions_list_item_alt_drawer.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/explore_sessions_list_item_alt_drawer.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/include_topic_more_button.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/include_topic_more_button.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/social_icons_vertical.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/social_icons_vertical.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/explore_io_act.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/explore_io_act.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/explore_io_act.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/explore_io_act.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/explore_sessions_list_item_alt_header.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/explore_sessions_list_item_alt_header.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/explore_sessions_list_item_livestream_alt_drawer.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/explore_sessions_list_item_livestream_alt_drawer.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/reserve_action_bar_space_header_view.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/reserve_action_bar_space_header_view.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/explore_io_keynote_stream_item.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/explore_io_keynote_stream_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/list_item_session_hero_narrow.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/list_item_session_hero_narrow.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/explore_io_frag.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/explore_io_frag.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/tab_indicator.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/tab_indicator.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/map_info_content.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/map_info_content.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/widget_schedule_header.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/widget_schedule_header.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/fragment_my_schedule.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/fragment_my_schedule.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/activity_welcome.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/explore_io_card_header_with_button.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/explore_io_card_header_with_button.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/widget_schedule_item.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/widget_schedule_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/welcome_attending_fragment.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/welcome_attending_fragment.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/map_info_bottom.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/map_info_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/explore_io_card_container.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/explore_io_card_container.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/social_icons_vertical.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/social_icons_vertical.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/session_feedback_act.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/session_feedback_act.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/include_more_button.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/include_more_button.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/list_item_hashtags.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/list_item_hashtags.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/tab_my_schedule.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/tab_my_schedule.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/reserve_action_bar_space_header_view.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/reserve_action_bar_space_header_view.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/welcome_tos_fragment.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/welcome_tos_fragment.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/video_library_filtered_act.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/video_library_filtered_act.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/list_item_explore_header.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/list_item_explore_header.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout/toolbar_actionbar.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout/toolbar_actionbar.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout/video_library_item.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout/video_library_item.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/toolbar_actionbar_with_headerbar.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/toolbar_actionbar_with_headerbar.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout/explore_sessions_act.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout/explore_sessions_act.xml"
+    }
+]

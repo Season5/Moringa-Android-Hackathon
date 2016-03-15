@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/menu/session_livestream.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/menu/session_livestream.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/menu/my_schedule.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/menu/my_schedule.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/menu/explore_io_menu.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/menu/explore_io_menu.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/menu/navview_menu.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/menu/navview_menu.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/menu/session_detail.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/menu/session_detail.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/menu/explore_sessions_filtered.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/menu/explore_sessions_filtered.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/menu/session_livestream.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/menu/session_livestream.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/menu/my_schedule.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/menu/my_schedule.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/menu/explore_sessions_filtered.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/menu/explore_sessions_filtered.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/menu/explore_io_menu.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/menu/explore_io_menu.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/menu/navview_menu.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/menu/navview_menu.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/menu/session_livestream.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/menu/session_livestream.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/menu/video_library_filtered.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/menu/video_library_filtered.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/menu/explore_sessions_filtered.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/menu/explore_sessions_filtered.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/menu/navview_menu.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/menu/navview_menu.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/menu/explore_io_menu.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/menu/explore_io_menu.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/menu/my_schedule.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/menu/my_schedule.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/menu/session_detail.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/menu/session_detail.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/menu/video_library_filtered.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/menu/video_library_filtered.xml"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/menu/session_detail.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/menu/session_detail.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/menu/video_library_filtered.xml",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/menu/video_library_filtered.xml"
+    }
+]

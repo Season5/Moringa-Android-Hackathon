@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/values-w360dp-port-v13/values-w360dp-port-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/values-w360dp-port/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 49,
+                        "endOffset": 724
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/values-w360dp-port-v13/values-w360dp-port-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/values-w360dp-port/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 49,
+                        "endOffset": 724
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/values-w360dp-port-v13/values-w360dp-port-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/Users/tune/iosched/android/src/main/res/values-w360dp-port/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 49,
+                        "endOffset": 724
+                    }
+                }
+            }
+        ]
+    }
+]
