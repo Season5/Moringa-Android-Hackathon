@@ -1,26 +1,34 @@
 [
     {
-        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/raw/gtm_analytics",
-        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/res/raw/gtm_analytics"
-    },
-    {
-        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/raw/gtm_analytics",
-        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/res/raw/gtm_analytics"
-    },
-    {
-        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/raw/bootstrap_data.json",
-        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/raw/bootstrap_data.json"
-    },
-    {
         "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/raw/gtm_analytics",
         "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/raw/bootstrap_data.json",
+        "source": "/Users/tune/iosched/android/src/main/res/raw/bootstrap_data.json"
+    },
+    {
+        "merged": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/res/raw/gtm_analytics"
     },
     {
         "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/raw/bootstrap_data.json",
         "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/raw/bootstrap_data.json"
     },
     {
-        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/raw/bootstrap_data.json",
-        "source": "/Users/tune/iosched/android/src/main/res/raw/bootstrap_data.json"
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/raw/bootstrap_data.json",
+        "source": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/raw/bootstrap_data.json"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/raw/bootstrap_data.json",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/raw/bootstrap_data.json"
     }
 ]

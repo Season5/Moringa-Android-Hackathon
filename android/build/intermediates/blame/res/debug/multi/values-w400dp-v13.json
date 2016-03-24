@@ -1,29 +1,5 @@
 [
     {
-        "outputFile": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/values-w400dp-v13/values-w400dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 51,
-                    "endOffset": 102
-                },
-                "from": {
-                    "file": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/values-w400dp/integers.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 660,
-                        "endColumn": 51,
-                        "endOffset": 707
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/values-w400dp-v13/values-w400dp-v13.xml",
         "map": [
             {
@@ -36,6 +12,54 @@
                 },
                 "from": {
                     "file": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/values-w400dp/integers.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 660,
+                        "endColumn": 51,
+                        "endOffset": 707
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/values-w400dp-v13/values-w400dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-w400dp/integers.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 660,
+                        "endColumn": 51,
+                        "endOffset": 707
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/values-w400dp-v13/values-w400dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/values-w400dp/integers.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,

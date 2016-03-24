@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/release/drawable-nodpi-v4/default_cover.jpg",
+        "source": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/drawable-nodpi/default_cover.jpg"
+    },
+    {
+        "merged": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/release/drawable-nodpi-v4/widget_preview.jpg",
+        "source": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/drawable-nodpi/widget_preview.jpg"
+    },
+    {
+        "merged": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/release/drawable-nodpi-v4/person_image_empty.png",
+        "source": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/drawable-nodpi/person_image_empty.png"
+    }
+]

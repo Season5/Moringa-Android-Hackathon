@@ -1,27 +1,31 @@
 [
     {
-        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/drawable-nodpi-v4/default_cover.jpg",
-        "source": "/Users/tune/iosched/android/src/main/res/drawable-nodpi/default_cover.jpg"
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/drawable-nodpi-v4/person_image_empty.png",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/drawable-nodpi/person_image_empty.png"
     },
     {
         "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/drawable-nodpi-v4/default_cover.jpg",
         "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/drawable-nodpi/default_cover.jpg"
     },
     {
-        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/drawable-nodpi-v4/person_image_empty.png",
-        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/drawable-nodpi/person_image_empty.png"
-    },
-    {
-        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/drawable-nodpi-v4/widget_preview.jpg",
-        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/drawable-nodpi/widget_preview.jpg"
+        "merged": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/drawable-nodpi-v4/widget_preview.jpg",
+        "source": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/drawable-nodpi/widget_preview.jpg"
     },
     {
         "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/drawable-nodpi-v4/widget_preview.jpg",
         "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/drawable-nodpi/widget_preview.jpg"
     },
     {
-        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/drawable-nodpi-v4/default_cover.jpg",
-        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/drawable-nodpi/default_cover.jpg"
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/drawable-nodpi-v4/default_cover.jpg",
+        "source": "/Users/tune/iosched/android/src/main/res/drawable-nodpi/default_cover.jpg"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/drawable-nodpi-v4/person_image_empty.png",
+        "source": "/Users/tune/iosched/android/src/main/res/drawable-nodpi/person_image_empty.png"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/drawable-nodpi-v4/widget_preview.jpg",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/drawable-nodpi/widget_preview.jpg"
     },
     {
         "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/drawable-nodpi-v4/person_image_empty.png",
@@ -32,7 +36,15 @@
         "source": "/Users/tune/iosched/android/src/main/res/drawable-nodpi/widget_preview.jpg"
     },
     {
-        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/drawable-nodpi-v4/person_image_empty.png",
-        "source": "/Users/tune/iosched/android/src/main/res/drawable-nodpi/person_image_empty.png"
+        "merged": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/drawable-nodpi-v4/person_image_empty.png",
+        "source": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/drawable-nodpi/person_image_empty.png"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/drawable-nodpi-v4/default_cover.jpg",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/drawable-nodpi/default_cover.jpg"
+    },
+    {
+        "merged": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/drawable-nodpi-v4/default_cover.jpg",
+        "source": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/drawable-nodpi/default_cover.jpg"
     }
 ]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/release/anim-v21/add_schedule_fab_state_list_anim.xml",
+        "source": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/anim-v21/add_schedule_fab_state_list_anim.xml"
+    },
+    {
+        "merged": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/release/anim-v21/io_logo_anim.xml",
+        "source": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/anim-v21/io_logo_anim.xml"
+    }
+]

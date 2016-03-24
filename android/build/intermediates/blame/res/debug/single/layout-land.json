@@ -1,14 +1,18 @@
 [
     {
-        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout-land/social_frag.xml",
-        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout-land/social_frag.xml"
-    },
-    {
         "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout-land/social_frag.xml",
         "source": "/Users/tune/iosched/android/src/main/res/layout-land/social_frag.xml"
     },
     {
         "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout-land/social_frag.xml",
         "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout-land/social_frag.xml"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/layout-land/social_frag.xml",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout-land/social_frag.xml"
+    },
+    {
+        "merged": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout-land/social_frag.xml",
+        "source": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/layout-land/social_frag.xml"
     }
 ]

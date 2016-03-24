@@ -24,6 +24,30 @@
         ]
     },
     {
+        "outputFile": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/values-w500dp-v13/values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-w500dp/values-w500dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 54,
+                        "endOffset": 333
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/values-w500dp-v13/values-w500dp-v13.xml",
         "map": [
             {
@@ -48,7 +72,7 @@
         ]
     },
     {
-        "outputFile": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/values-w500dp-v13/values-w500dp-v13.xml",
+        "outputFile": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/values-w500dp-v13/values-w500dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -59,7 +83,7 @@
                     "endOffset": 105
                 },
                 "from": {
-                    "file": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-w500dp/values-w500dp.xml",
+                    "file": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-w500dp/values-w500dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

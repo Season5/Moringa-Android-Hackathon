@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/release/raw/gtm_analytics",
+        "source": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/release/raw/bootstrap_data.json",
+        "source": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/raw/bootstrap_data.json"
+    }
+]

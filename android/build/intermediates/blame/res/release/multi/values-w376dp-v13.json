@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/release/values-w376dp-v13/values-w376dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-w376dp/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endColumn": 44,
+                        "endOffset": 759
+                    }
+                }
+            }
+        ]
+    }
+]

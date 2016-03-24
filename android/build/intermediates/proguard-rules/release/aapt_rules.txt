@@ -1,0 +1,330 @@
+# view res/layout/design_navigation_item.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# view res/layout/design_navigation_menu.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# view res/layout/design_layout_snackbar.xml #generated:18
+# view sw600dp-v13/res/layout-sw600dp-v13/design_layout_snackbar.xml #generated:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# view res/layout/activity_my_schedule_narrow.xml #generated:41
+-keep class android.support.design.widget.TabLayout { <init>(...); }
+
+# view res/layout/activity_my_schedule_narrow.xml #generated:69
+# view res/layout/activity_my_schedule_wide.xml #generated:139
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/activity_about.xml #generated:17
+# view res/layout/activity_my_schedule_narrow.xml #generated:16
+# view res/layout/activity_my_schedule_wide.xml #generated:16
+# view res/layout/debug_act.xml #generated:17
+# view res/layout/explore_io_act.xml #generated:18
+# view res/layout/explore_sessions_act.xml #generated:18
+# view res/layout/map_act.xml #generated:20
+# view res/layout/settings_act.xml #generated:18
+# view res/layout/social_act.xml #generated:17
+# view res/layout/video_library_act.xml #generated:17
+# view res/layout/video_library_filtered_act.xml #generated:17
+# view sw600dp-v13/res/layout-sw600dp-v13/map_act.xml #generated:21
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:130
+# view res/layout/explore_sessions_list_item_livestream_alt_drawer.xml #generated:43
+# view res/layout/session_feedback_frag.xml #generated:301
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.internal.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+-keep class android.support.v7.internal.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.internal.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.internal.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.internal.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:48
+-keep class android.support.v7.internal.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.internal.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.internal.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/abc_action_mode_close_item_material.xml #generated:17
+# view res/layout/abc_search_dropdown_item_icons_2line.xml #generated:27
+# view res/layout/abc_search_dropdown_item_icons_2line.xml #generated:37
+# view res/layout/abc_search_dropdown_item_icons_2line.xml #generated:48
+# view res/layout/abc_search_view.xml #generated:116
+# view res/layout/abc_search_view.xml #generated:128
+# view res/layout/abc_search_view.xml #generated:38
+# view res/layout/abc_search_view.xml #generated:60
+# view res/layout/abc_search_view.xml #generated:97
+-keep class android.support.v7.internal.widget.TintImageView { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.internal.widget.ViewStubCompat { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/activity_search.xml #generated:36
+# view res/layout/activity_welcome.xml #generated:50
+# view res/layout/explore_io_card_container.xml #generated:16
+# view res/layout/explore_io_topic_theme_livestream_card_container.xml #generated:18
+# view res/layout/map_info_bottom.xml #generated:39
+# view res/layout/map_info_inline.xml #generated:17
+# view res/layout/video_lib_card_container.xml #generated:17
+# view sw600dp-v13/res/layout-sw600dp-v13/map_act.xml #generated:64
+-keep class android.support.v7.widget.CardView { <init>(...); }
+
+# view res/layout/activity_search.xml #generated:57
+-keep class android.support.v7.widget.SearchView { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:78
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+# view res/layout/activity_search.xml #generated:50
+# view res/layout/session_feedback_frag.xml #generated:31
+# view res/layout/toolbar_actionbar.xml #generated:18
+# view res/layout/toolbar_actionbar_keyline_insets.xml #generated:18
+# view res/layout/toolbar_actionbar_with_headerbar.xml #generated:18
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view AndroidManifest.xml #generated:413
+-keep class com.google.android.gms.analytics.CampaignTrackingReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:404
+-keep class com.google.android.gms.analytics.CampaignTrackingService { <init>(...); }
+
+# view res/layout/text_bubble.xml #generated:7
+-keep class com.google.maps.android.ui.RotationLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:86
+-keep class com.google.samples.apps.iosched.AppApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:351
+-keep class com.google.samples.apps.iosched.about.AboutActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:502
+-keep class com.google.samples.apps.iosched.appwidget.ScheduleWidgetProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:516
+-keep class com.google.samples.apps.iosched.appwidget.ScheduleWidgetRemoteViewsService { <init>(...); }
+
+# view AndroidManifest.xml #generated:368
+-keep class com.google.samples.apps.iosched.debug.DebugActivity { <init>(...); }
+
+# view res/layout/debug_act.xml #generated:34
+-keep class com.google.samples.apps.iosched.debug.DebugFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:378
+-keep class com.google.samples.apps.iosched.debug.actions.ViewFilesInAppFolderActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:108
+-keep class com.google.samples.apps.iosched.explore.ExploreIOActivity { <init>(...); }
+
+# view res/layout/explore_io_act.xml #generated:36
+-keep class com.google.samples.apps.iosched.explore.ExploreIOFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:218
+-keep class com.google.samples.apps.iosched.explore.ExploreSessionsActivity { <init>(...); }
+
+# view res/layout/explore_sessions_act.xml #generated:35
+-keep class com.google.samples.apps.iosched.explore.ExploreSessionsFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:523
+-keep class com.google.samples.apps.iosched.feedback.FeedbackWearableListenerService { <init>(...); }
+
+# view AndroidManifest.xml #generated:262
+-keep class com.google.samples.apps.iosched.feedback.SessionFeedbackActivity { <init>(...); }
+
+# view res/layout/session_feedback_act.xml #generated:26
+-keep class com.google.samples.apps.iosched.feedback.SessionFeedbackFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:455
+-keep class com.google.samples.apps.iosched.gcm.GCMIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:434
+-keep class com.google.samples.apps.iosched.gcm.GCMRedirectedBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:331
+-keep class com.google.samples.apps.iosched.map.MapActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:141
+-keep class com.google.samples.apps.iosched.myschedule.MyScheduleActivity { <init>(...); }
+
+# view res/layout/activity_my_schedule_wide.xml #generated:119
+# view res/layout/activity_my_schedule_wide.xml #generated:80
+# view res/layout/activity_my_schedule_wide.xml #generated:95
+-keep class com.google.samples.apps.iosched.myschedule.MyScheduleView { <init>(...); }
+
+# view AndroidManifest.xml #generated:459
+-keep class com.google.samples.apps.iosched.provider.ScheduleProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:385
+-keep class com.google.samples.apps.iosched.receiver.SessionAlarmReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:484
+-keep class com.google.samples.apps.iosched.service.DataBootstrapService { <init>(...); }
+
+# view AndroidManifest.xml #generated:392
+-keep class com.google.samples.apps.iosched.service.SessionAlarmService { <init>(...); }
+
+# view AndroidManifest.xml #generated:395
+-keep class com.google.samples.apps.iosched.service.SessionCalendarService { <init>(...); }
+
+# view AndroidManifest.xml #generated:304
+-keep class com.google.samples.apps.iosched.session.SessionDetailActivity { <init>(...); }
+
+# view res/layout/session_detail_act.xml #generated:18
+-keep class com.google.samples.apps.iosched.session.SessionDetailFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:231
+-keep class com.google.samples.apps.iosched.settings.SettingsActivity { <init>(...); }
+
+# view res/layout/settings_act.xml #generated:36
+-keep class com.google.samples.apps.iosched.settings.SettingsActivity$SettingsFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:341
+-keep class com.google.samples.apps.iosched.social.SocialActivity { <init>(...); }
+
+# view res/layout/social_act.xml #generated:34
+-keep class com.google.samples.apps.iosched.social.SocialFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:467
+-keep class com.google.samples.apps.iosched.sync.SyncService { <init>(...); }
+
+# view AndroidManifest.xml #generated:492
+-keep class com.google.samples.apps.iosched.sync.TriggerSyncReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:241
+-keep class com.google.samples.apps.iosched.ui.SearchActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:364
+-keep class com.google.samples.apps.iosched.ui.TaskStackBuilderProxyActivity { <init>(...); }
+
+# view res/layout/explore_io_keynote_stream_item.xml #generated:32
+# view res/layout/explore_io_topic_theme_livestream_item.xml #generated:37
+# view res/layout/explore_sessions_list_item.xml #generated:33
+# view res/layout/social_frag.xml #generated:106
+# view res/layout/social_frag.xml #generated:148
+# view res/layout/social_frag.xml #generated:190
+# view res/layout/social_frag.xml #generated:29
+# view res/layout/social_frag.xml #generated:56
+# view res/layout/video_library_item.xml #generated:33
+# view w560dp-v13/res/layout-w560dp-v13/explore_io_keynote_stream_item.xml #generated:32
+-keep class com.google.samples.apps.iosched.ui.widget.AspectRatioView { <init>(...); }
+
+# view res/layout/list_item_account.xml #generated:26
+# view res/layout/navdrawer.xml #generated:70
+# view res/layout/navview_header_view.xml #generated:48
+# view res/layout/speaker_detail.xml #generated:23
+-keep class com.google.samples.apps.iosched.ui.widget.BezelImageView { <init>(...); }
+
+# view res/layout/include_add_schedule_fab.xml #generated:24
+-keep class com.google.samples.apps.iosched.ui.widget.CheckableFloatingActionButton { <init>(...); }
+
+# view res/layout/explore_io_frag.xml #generated:26
+# view res/layout/explore_sessions_act_alt_drawer_layout.xml #generated:86
+# view res/layout/explore_sessions_frag.xml #generated:24
+# view res/layout/video_library_frag.xml #generated:24
+-keep class com.google.samples.apps.iosched.ui.widget.CollectionView { <init>(...); }
+
+# view res/layout/activity_about.xml #generated:27
+# view res/layout/debug_act.xml #generated:27
+# view res/layout/explore_io_act.xml #generated:29
+# view res/layout/explore_sessions_act.xml #generated:29
+# view res/layout/settings_act.xml #generated:29
+# view res/layout/social_act.xml #generated:28
+# view res/layout/video_library_act.xml #generated:28
+# view res/layout/video_library_filtered_act.xml #generated:28
+-keep class com.google.samples.apps.iosched.ui.widget.DrawShadowFrameLayout { <init>(...); }
+
+# view res/layout/explore_io_keynote_stream_item.xml #generated:19
+# view res/layout/explore_io_topic_theme_livestream_item.xml #generated:18
+# view res/layout/explore_sessions_list_item.xml #generated:18
+# view res/layout/video_library_item.xml #generated:20
+# view w560dp-v13/res/layout-w560dp-v13/explore_io_keynote_stream_item.xml #generated:19
+-keep class com.google.samples.apps.iosched.ui.widget.ForegroundLinearLayout { <init>(...); }
+
+# view res/layout/list_item_hashtags.xml #generated:19
+-keep class com.google.samples.apps.iosched.ui.widget.HashtagView { <init>(...); }
+
+# view res/layout/list_item_session_hero_narrow.xml #generated:96
+# view res/layout/list_item_session_hero_wide.xml #generated:105
+# view res/layout/session_detail_frag.xml #generated:76
+-keep class com.google.samples.apps.iosched.ui.widget.MessageCardView { <init>(...); }
+
+# view res/layout/activity_my_schedule_narrow.xml #generated:62
+# view res/layout/activity_my_schedule_wide.xml #generated:33
+-keep class com.google.samples.apps.iosched.ui.widget.MultiSwipeRefreshLayout { <init>(...); }
+
+# view res/layout/navdrawer_item.xml #generated:18
+-keep class com.google.samples.apps.iosched.ui.widget.NavDrawerItemView { <init>(...); }
+
+# view res/layout/session_feedback_frag.xml #generated:151
+# view res/layout/session_feedback_frag.xml #generated:206
+# view res/layout/session_feedback_frag.xml #generated:261
+-keep class com.google.samples.apps.iosched.ui.widget.NumberRatingBar { <init>(...); }
+
+# view res/layout/session_detail_frag.xml #generated:25
+-keep class com.google.samples.apps.iosched.ui.widget.ObservableScrollView { <init>(...); }
+
+# view res/layout/navdrawer.xml #generated:20
+-keep class com.google.samples.apps.iosched.ui.widget.ScrimInsetsScrollView { <init>(...); }
+
+# view res/layout/list_item_search_result.xml #generated:17
+-keep class com.google.samples.apps.iosched.ui.widget.SearchSnippet { <init>(...); }
+
+# view AndroidManifest.xml #generated:284
+-keep class com.google.samples.apps.iosched.videolibrary.VideoLibraryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:294
+-keep class com.google.samples.apps.iosched.videolibrary.VideoLibraryFilteredActivity { <init>(...); }
+
+# view res/layout/video_library_filtered_act.xml #generated:36
+-keep class com.google.samples.apps.iosched.videolibrary.VideoLibraryFilteredFragment { <init>(...); }
+
+# view res/layout/video_library_act.xml #generated:35
+-keep class com.google.samples.apps.iosched.videolibrary.VideoLibraryFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:280
+-keep class com.google.samples.apps.iosched.welcome.WelcomeActivity { <init>(...); }
+
+# view res/layout/map_info_bottom.xml #generated:17
+-keep class com.sothree.slidinguppanel.SlidingUpPanelLayout { <init>(...); }
+
+# onClick ldrtl-v17/res/layout-ldrtl-v17/explore_io_card_header_with_button.xml #generated:19
+# onClick res/layout/explore_io_card_header_with_button.xml #generated:19
+-keepclassmembers class * { *** cardHeaderClicked(...); }
+
+# onClick res/layout/activity_search.xml #generated:17
+-keepclassmembers class * { *** dismiss(...); }
+
+# onClick res/layout/explore_io_keynote_stream_item.xml #generated:19
+# onClick res/layout/explore_io_topic_theme_livestream_item.xml #generated:18
+# onClick w560dp-v13/res/layout-w560dp-v13/explore_io_keynote_stream_item.xml #generated:19
+-keepclassmembers class * { *** sessionDetailItemClicked(...); }
+

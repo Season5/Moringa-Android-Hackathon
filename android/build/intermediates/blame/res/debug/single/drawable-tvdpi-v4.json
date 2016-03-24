@@ -1,62 +1,82 @@
 [
     {
-        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
-        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_standard_off_client.png"
-    },
-    {
-        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
-        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_small_off_client.png"
-    },
-    {
-        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
-        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_medium_off_client.png"
-    },
-    {
-        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
-        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_small_off_client.png"
-    },
-    {
-        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_full_open_on_phone.png",
-        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/common_full_open_on_phone.png"
-    },
-    {
-        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_full_open_on_phone.png",
-        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/common_full_open_on_phone.png"
-    },
-    {
-        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
-        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_medium_off_client.png"
-    },
-    {
-        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
-        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_medium_off_client.png"
-    },
-    {
         "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
         "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_tall_off_client.png"
     },
     {
-        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
-        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_small_off_client.png"
-    },
-    {
-        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_full_open_on_phone.png",
-        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/common_full_open_on_phone.png"
-    },
-    {
-        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
-        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_tall_off_client.png"
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_standard_off_client.png"
     },
     {
         "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
         "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_standard_off_client.png"
     },
     {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/common_full_open_on_phone.png"
+    },
+    {
         "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
         "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_tall_off_client.png"
     },
     {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_full_open_on_phone.png",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
+        "source": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_medium_off_client.png"
+    },
+    {
         "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
         "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_full_open_on_phone.png",
+        "source": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/Users/tune/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
+        "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_full_open_on_phone.png",
+        "source": "/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
+        "source": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
+        "source": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable-tvdpi/ic_plusone_small_off_client.png"
     }
 ]

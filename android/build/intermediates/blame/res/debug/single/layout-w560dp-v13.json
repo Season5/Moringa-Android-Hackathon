@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout-w560dp-v13/explore_io_keynote_stream_item.xml",
+        "source": "/Users/tune/iosched/android/src/main/res/layout-w560dp/explore_io_keynote_stream_item.xml"
+    },
+    {
         "merged": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout-w560dp-v13/explore_io_keynote_stream_item.xml",
         "source": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/layout-w560dp/explore_io_keynote_stream_item.xml"
     },
@@ -8,7 +12,7 @@
         "source": "/Volumes/Projects/android-projects/IT-Fest/android/src/main/res/layout-w560dp/explore_io_keynote_stream_item.xml"
     },
     {
-        "merged": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/layout-w560dp-v13/explore_io_keynote_stream_item.xml",
-        "source": "/Users/tune/iosched/android/src/main/res/layout-w560dp/explore_io_keynote_stream_item.xml"
+        "merged": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/layout-w560dp-v13/explore_io_keynote_stream_item.xml",
+        "source": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/layout-w560dp/explore_io_keynote_stream_item.xml"
     }
 ]

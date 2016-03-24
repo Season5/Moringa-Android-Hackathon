@@ -1,0 +1,2547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="4" by="lint 24.4.1">
+
+    <issue
+        id="NamespaceTypo"
+        severity="Fatal"
+        message="Suspicious namespace and prefix combination"
+        category="Correctness"
+        priority="8"
+        summary="Misspelled namespace declaration"
+        explanation="Accidental misspellings in namespace declarations can lead to some very obscure error messages. This check looks for potential misspellings to help track these down."
+        errorLine1="    xmlns:tools=&quot;http://schemas.android.com/apk/res/android&quot;"
+        errorLine2="                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/layout/map_item_session.xml"
+            line="19"
+            column="18"/>
+    </issue>
+
+    <issue
+        id="ManifestResource"
+        severity="Fatal"
+        message="Resources referenced from the manifest cannot vary by configuration (except for version qualifiers, e.g. `-v21`.) Found variation in ar"
+        category="Correctness"
+        priority="6"
+        summary="Manifest Resource References"
+        explanation="Elements in the manifest can reference resources, but those resources cannot vary across configurations (except as a special case, by version, and except for a few specific package attributes such as the application title and icon.)"
+        errorLine1="        android:description=&quot;@string/permission_write&quot;"
+        errorLine2="                             ~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/AndroidManifest.xml"
+            line="32"
+            column="30"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-zh-rTW/strings.xml"
+            line="584"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-zh-rCN/strings.xml"
+            line="579"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ru/strings.xml"
+            line="508"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-pt/strings.xml"
+            line="537"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ko/strings.xml"
+            line="577"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ja/strings.xml"
+            line="574"
+            column="94"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-it/strings.xml"
+            line="565"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-fr/strings.xml"
+            line="597"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-es/strings.xml"
+            line="577"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-de/strings.xml"
+            line="586"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ar/strings.xml"
+            line="512"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="ManifestResource"
+        severity="Fatal"
+        message="Resources referenced from the manifest cannot vary by configuration (except for version qualifiers, e.g. `-v21`.) Found variation in de"
+        category="Correctness"
+        priority="6"
+        summary="Manifest Resource References"
+        explanation="Elements in the manifest can reference resources, but those resources cannot vary across configurations (except as a special case, by version, and except for a few specific package attributes such as the application title and icon.)"
+        errorLine1="        android:description=&quot;@string/permission_write&quot;"
+        errorLine2="                             ~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/AndroidManifest.xml"
+            line="32"
+            column="30"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-zh-rTW/strings.xml"
+            line="584"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-zh-rCN/strings.xml"
+            line="579"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ru/strings.xml"
+            line="508"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-pt/strings.xml"
+            line="537"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ko/strings.xml"
+            line="577"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ja/strings.xml"
+            line="574"
+            column="94"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-it/strings.xml"
+            line="565"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-fr/strings.xml"
+            line="597"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-es/strings.xml"
+            line="577"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-de/strings.xml"
+            line="586"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ar/strings.xml"
+            line="512"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="ManifestResource"
+        severity="Fatal"
+        message="Resources referenced from the manifest cannot vary by configuration (except for version qualifiers, e.g. `-v21`.) Found variation in es"
+        category="Correctness"
+        priority="6"
+        summary="Manifest Resource References"
+        explanation="Elements in the manifest can reference resources, but those resources cannot vary across configurations (except as a special case, by version, and except for a few specific package attributes such as the application title and icon.)"
+        errorLine1="        android:description=&quot;@string/permission_write&quot;"
+        errorLine2="                             ~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/AndroidManifest.xml"
+            line="32"
+            column="30"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-zh-rTW/strings.xml"
+            line="584"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-zh-rCN/strings.xml"
+            line="579"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ru/strings.xml"
+            line="508"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-pt/strings.xml"
+            line="537"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ko/strings.xml"
+            line="577"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ja/strings.xml"
+            line="574"
+            column="94"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-it/strings.xml"
+            line="565"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-fr/strings.xml"
+            line="597"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-es/strings.xml"
+            line="577"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-de/strings.xml"
+            line="586"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ar/strings.xml"
+            line="512"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="ManifestResource"
+        severity="Fatal"
+        message="Resources referenced from the manifest cannot vary by configuration (except for version qualifiers, e.g. `-v21`.) Found variation in fr"
+        category="Correctness"
+        priority="6"
+        summary="Manifest Resource References"
+        explanation="Elements in the manifest can reference resources, but those resources cannot vary across configurations (except as a special case, by version, and except for a few specific package attributes such as the application title and icon.)"
+        errorLine1="        android:description=&quot;@string/permission_write&quot;"
+        errorLine2="                             ~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/AndroidManifest.xml"
+            line="32"
+            column="30"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-zh-rTW/strings.xml"
+            line="584"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-zh-rCN/strings.xml"
+            line="579"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ru/strings.xml"
+            line="508"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-pt/strings.xml"
+            line="537"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ko/strings.xml"
+            line="577"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ja/strings.xml"
+            line="574"
+            column="94"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-it/strings.xml"
+            line="565"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-fr/strings.xml"
+            line="597"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-es/strings.xml"
+            line="577"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-de/strings.xml"
+            line="586"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ar/strings.xml"
+            line="512"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="ManifestResource"
+        severity="Fatal"
+        message="Resources referenced from the manifest cannot vary by configuration (except for version qualifiers, e.g. `-v21`.) Found variation in it"
+        category="Correctness"
+        priority="6"
+        summary="Manifest Resource References"
+        explanation="Elements in the manifest can reference resources, but those resources cannot vary across configurations (except as a special case, by version, and except for a few specific package attributes such as the application title and icon.)"
+        errorLine1="        android:description=&quot;@string/permission_write&quot;"
+        errorLine2="                             ~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/AndroidManifest.xml"
+            line="32"
+            column="30"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-zh-rTW/strings.xml"
+            line="584"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-zh-rCN/strings.xml"
+            line="579"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ru/strings.xml"
+            line="508"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-pt/strings.xml"
+            line="537"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ko/strings.xml"
+            line="577"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ja/strings.xml"
+            line="574"
+            column="94"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-it/strings.xml"
+            line="565"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-fr/strings.xml"
+            line="597"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-es/strings.xml"
+            line="577"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-de/strings.xml"
+            line="586"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ar/strings.xml"
+            line="512"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="ManifestResource"
+        severity="Fatal"
+        message="Resources referenced from the manifest cannot vary by configuration (except for version qualifiers, e.g. `-v21`.) Found variation in ja"
+        category="Correctness"
+        priority="6"
+        summary="Manifest Resource References"
+        explanation="Elements in the manifest can reference resources, but those resources cannot vary across configurations (except as a special case, by version, and except for a few specific package attributes such as the application title and icon.)"
+        errorLine1="        android:description=&quot;@string/permission_write&quot;"
+        errorLine2="                             ~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/AndroidManifest.xml"
+            line="32"
+            column="30"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-zh-rTW/strings.xml"
+            line="584"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-zh-rCN/strings.xml"
+            line="579"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ru/strings.xml"
+            line="508"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-pt/strings.xml"
+            line="537"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ko/strings.xml"
+            line="577"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ja/strings.xml"
+            line="574"
+            column="94"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-it/strings.xml"
+            line="565"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-fr/strings.xml"
+            line="597"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-es/strings.xml"
+            line="577"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-de/strings.xml"
+            line="586"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ar/strings.xml"
+            line="512"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="ManifestResource"
+        severity="Fatal"
+        message="Resources referenced from the manifest cannot vary by configuration (except for version qualifiers, e.g. `-v21`.) Found variation in ko"
+        category="Correctness"
+        priority="6"
+        summary="Manifest Resource References"
+        explanation="Elements in the manifest can reference resources, but those resources cannot vary across configurations (except as a special case, by version, and except for a few specific package attributes such as the application title and icon.)"
+        errorLine1="        android:description=&quot;@string/permission_write&quot;"
+        errorLine2="                             ~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/AndroidManifest.xml"
+            line="32"
+            column="30"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-zh-rTW/strings.xml"
+            line="584"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-zh-rCN/strings.xml"
+            line="579"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ru/strings.xml"
+            line="508"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-pt/strings.xml"
+            line="537"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ko/strings.xml"
+            line="577"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ja/strings.xml"
+            line="574"
+            column="94"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-it/strings.xml"
+            line="565"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-fr/strings.xml"
+            line="597"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-es/strings.xml"
+            line="577"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-de/strings.xml"
+            line="586"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ar/strings.xml"
+            line="512"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="ManifestResource"
+        severity="Fatal"
+        message="Resources referenced from the manifest cannot vary by configuration (except for version qualifiers, e.g. `-v21`.) Found variation in pt"
+        category="Correctness"
+        priority="6"
+        summary="Manifest Resource References"
+        explanation="Elements in the manifest can reference resources, but those resources cannot vary across configurations (except as a special case, by version, and except for a few specific package attributes such as the application title and icon.)"
+        errorLine1="        android:description=&quot;@string/permission_write&quot;"
+        errorLine2="                             ~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/AndroidManifest.xml"
+            line="32"
+            column="30"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-zh-rTW/strings.xml"
+            line="584"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-zh-rCN/strings.xml"
+            line="579"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ru/strings.xml"
+            line="508"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-pt/strings.xml"
+            line="537"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ko/strings.xml"
+            line="577"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ja/strings.xml"
+            line="574"
+            column="94"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-it/strings.xml"
+            line="565"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-fr/strings.xml"
+            line="597"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-es/strings.xml"
+            line="577"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-de/strings.xml"
+            line="586"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ar/strings.xml"
+            line="512"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="ManifestResource"
+        severity="Fatal"
+        message="Resources referenced from the manifest cannot vary by configuration (except for version qualifiers, e.g. `-v21`.) Found variation in ru"
+        category="Correctness"
+        priority="6"
+        summary="Manifest Resource References"
+        explanation="Elements in the manifest can reference resources, but those resources cannot vary across configurations (except as a special case, by version, and except for a few specific package attributes such as the application title and icon.)"
+        errorLine1="        android:description=&quot;@string/permission_write&quot;"
+        errorLine2="                             ~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/AndroidManifest.xml"
+            line="32"
+            column="30"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-zh-rTW/strings.xml"
+            line="584"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-zh-rCN/strings.xml"
+            line="579"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ru/strings.xml"
+            line="508"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-pt/strings.xml"
+            line="537"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ko/strings.xml"
+            line="577"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ja/strings.xml"
+            line="574"
+            column="94"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-it/strings.xml"
+            line="565"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-fr/strings.xml"
+            line="597"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-es/strings.xml"
+            line="577"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-de/strings.xml"
+            line="586"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ar/strings.xml"
+            line="512"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="ManifestResource"
+        severity="Fatal"
+        message="Resources referenced from the manifest cannot vary by configuration (except for version qualifiers, e.g. `-v21`.) Found variation in zh-rCN"
+        category="Correctness"
+        priority="6"
+        summary="Manifest Resource References"
+        explanation="Elements in the manifest can reference resources, but those resources cannot vary across configurations (except as a special case, by version, and except for a few specific package attributes such as the application title and icon.)"
+        errorLine1="        android:description=&quot;@string/permission_write&quot;"
+        errorLine2="                             ~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/AndroidManifest.xml"
+            line="32"
+            column="30"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-zh-rTW/strings.xml"
+            line="584"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-zh-rCN/strings.xml"
+            line="579"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ru/strings.xml"
+            line="508"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-pt/strings.xml"
+            line="537"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ko/strings.xml"
+            line="577"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ja/strings.xml"
+            line="574"
+            column="94"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-it/strings.xml"
+            line="565"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-fr/strings.xml"
+            line="597"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-es/strings.xml"
+            line="577"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-de/strings.xml"
+            line="586"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ar/strings.xml"
+            line="512"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="ManifestResource"
+        severity="Fatal"
+        message="Resources referenced from the manifest cannot vary by configuration (except for version qualifiers, e.g. `-v21`.) Found variation in zh-rTW"
+        category="Correctness"
+        priority="6"
+        summary="Manifest Resource References"
+        explanation="Elements in the manifest can reference resources, but those resources cannot vary across configurations (except as a special case, by version, and except for a few specific package attributes such as the application title and icon.)"
+        errorLine1="        android:description=&quot;@string/permission_write&quot;"
+        errorLine2="                             ~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/AndroidManifest.xml"
+            line="32"
+            column="30"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-zh-rTW/strings.xml"
+            line="584"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-zh-rCN/strings.xml"
+            line="579"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ru/strings.xml"
+            line="508"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-pt/strings.xml"
+            line="537"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ko/strings.xml"
+            line="577"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ja/strings.xml"
+            line="574"
+            column="94"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-it/strings.xml"
+            line="565"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-fr/strings.xml"
+            line="597"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-es/strings.xml"
+            line="577"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-de/strings.xml"
+            line="586"
+            column="5"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-ar/strings.xml"
+            line="512"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`font_fontFamily_medium`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;font_fontFamily_medium&quot;>sans-serif&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/fonts.xml"
+            line="19"
+            column="13"/>
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-v21/fonts.xml"
+            line="19"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`navview_menu_item_iolive`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;navview_menu_item_iolive&quot;>I/O Live&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/navview_values.xml"
+            line="20"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`navview_menu_item_myschedule`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;navview_menu_item_myschedule&quot;>My Schedule&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/navview_values.xml"
+            line="22"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`navview_menu_item_explore`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;navview_menu_item_explore&quot;>Explore&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/navview_values.xml"
+            line="24"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`navview_menu_item_map`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;navview_menu_item_map&quot;>Map&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/navview_values.xml"
+            line="26"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`navview_menu_item_social`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;navview_menu_item_social&quot;>Social&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/navview_values.xml"
+            line="28"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`navview_menu_item_videos`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;navview_menu_item_videos&quot;>Videos&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/navview_values.xml"
+            line="30"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`navview_menu_item_settings`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;navview_menu_item_settings&quot;>Settings&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/navview_values.xml"
+            line="32"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`navview_menu_item_debug`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;navview_menu_item_debug&quot;>Debug&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/navview_values.xml"
+            line="34"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`navview_header_default_image_content_description`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;navview_header_default_image_content_description&quot;>Cyan background image with"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/navview_values.xml"
+            line="37"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`navview_header_user_image_content_description`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;navview_header_user_image_content_description&quot;>User-defined Google"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/navview_values.xml"
+            line="41"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`placeholder_email_address`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;placeholder_email_address&quot;>&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/placeholder_strings.xml"
+            line="20"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`placeholder_session_day`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;placeholder_session_day&quot;>&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/placeholder_strings.xml"
+            line="21"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`placeholder_session_start_time`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;placeholder_session_start_time&quot;>&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/placeholder_strings.xml"
+            line="22"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`placeholder_session_end_time`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;placeholder_session_end_time&quot;>&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/placeholder_strings.xml"
+            line="23"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`placeholder_session_block_time`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;placeholder_session_block_time&quot;>&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/placeholder_strings.xml"
+            line="24"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`placeholder_session_title`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;placeholder_session_title&quot;>&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/placeholder_strings.xml"
+            line="25"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`placeholder_session_subtitle`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;placeholder_session_subtitle&quot;>&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/placeholder_strings.xml"
+            line="26"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`placeholder_session_subtitle_and_abstract`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;placeholder_session_subtitle_and_abstract&quot;>&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/placeholder_strings.xml"
+            line="27"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`placeholder_session_blurb`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;placeholder_session_blurb&quot;>&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/placeholder_strings.xml"
+            line="28"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`placeholder_map_title`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;placeholder_map_title&quot;>&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/placeholder_strings.xml"
+            line="29"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`placeholder_lorem_ipsum`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;placeholder_lorem_ipsum&quot;>&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/placeholder_strings.xml"
+            line="30"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`placeholder_button_label_1`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;placeholder_button_label_1&quot;>&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/placeholder_strings.xml"
+            line="31"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`placeholder_button_label_2`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;placeholder_button_label_2&quot;>&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/placeholder_strings.xml"
+            line="32"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`about_main`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;about_main&quot;>&lt;![CDATA["
+        errorLine2="            ~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="56"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`about_terms`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;about_terms&quot;>Terms of Service&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="62"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`about_privacy_policy`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;about_privacy_policy&quot;>Privacy Policy&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="65"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`session_feedback_tell_us`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string description=&quot;Hint for adding other session feedback&quot; name=&quot;session_feedback_tell_us&quot;>Other session feedback?&lt;/string>"
+        errorLine2="                                                                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="100"
+            column="66"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`close_and_go_back`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;close_and_go_back&quot;>Close and go back&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="141"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`speaker_social_page`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;speaker_social_page&quot;>Go to the %1$s page for %2$s&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="234"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`social_io15_gplus_content_description`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;social_io15_gplus_content_description&quot;>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="237"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`social_io15_twitter_content_description`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;social_io15_twitter_content_description&quot;>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="242"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`social_gplus_devs_content_description`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;social_gplus_devs_content_description&quot;>Go to Google Developers on Google Plus&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="250"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`social_twitter_devs_content_description`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;social_twitter_devs_content_description&quot;>Go to Google Developers on Twitter&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="256"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`social_extended_gplus_content_description`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;social_extended_gplus_content_description&quot;>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="263"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`social_extended_twitter_content_description`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;social_extended_twitter_content_description&quot;>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="268"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`social_request_gplus_content_description`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;social_request_gplus_content_description&quot;>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="277"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`social_request_twitter_content_description`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;social_request_twitter_content_description&quot;>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="282"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`io15_logo_not_clickable`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;io15_logo_not_clickable&quot;>IO15 logo not clickable&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="287"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`io15_extended_logo_not_clickable`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;io15_extended_logo_not_clickable&quot;>IO15 extended logo not clickable&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="290"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`io15_request_logo_not_clickable`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;io15_request_logo_not_clickable&quot;>IO15 request logo not clickable&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="293"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`io_logo_not_clickable`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;io_logo_not_clickable&quot;>IO logo not clickable&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="296"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`more_items_button_desc_a11y`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;more_items_button_desc_a11y&quot;>Tap to show more items.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="440"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`more_items_button_desc_with_label_a11y`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;more_items_button_desc_with_label_a11y&quot;>Tap to show more &lt;xliff:g id=&quot;itemName&quot;>%1$s&lt;/xliff:g> items.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="443"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`a11y_button`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;a11y_button&quot;>%s button&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="455"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`navdrawer_menu_item_a11y_wrapper`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;navdrawer_menu_item_a11y_wrapper&quot;>%1$s  menu item&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="511"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`navdrawer_selected_menu_item_a11y_wrapper`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;navdrawer_selected_menu_item_a11y_wrapper&quot;>%1$s selected menu item&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="515"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`pref_conf_message_cards_enabled_description`&quot; is not translated in &quot;ru&quot; (Russian)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;pref_conf_message_cards_enabled_description&quot;"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="578"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`session_feedback_content`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string description=&quot;A positive relevance session feedback option&quot;"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="678"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`session_feedback_rel`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="            name=&quot;session_feedback_rel&quot;>Pertinent&lt;/string>"
+        errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="679"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`session_feedback_notrel`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="            name=&quot;session_feedback_notrel&quot;>Not Pertinent&lt;/string>"
+        errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="681"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`session_feedback_title_rate`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;session_feedback_title_rate&quot;>Rate&lt;/string>"
+        errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="684"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`session_rating_label_text`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;session_rating_label_text&quot;>Session rating:&lt;/string>"
+        errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="687"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`session_feedback_content_label_text`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;session_feedback_content_label_text&quot;>Based on the description/my expectations, the content was:&lt;/string>"
+        errorLine2="                                                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="702"
+            column="50"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`session_feedback_not_so_awesome`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;session_feedback_not_so_awesome&quot;>Not so awesome&lt;/string>"
+        errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="711"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`session_feedback_awesome`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;!-- A positive overall session reating -->"
+        errorLine2="                                  ^"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="713"
+            column="35"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`session_feedback_not_at_all_relevant`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1=""
+        errorLine2="                                            ^"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="715"
+            column="45"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`session_feedback_extremely_relevant`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;session_feedback_extremely_relevant&quot;>Extremely&lt;/string>"
+        errorLine2="                                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="720"
+            column="43"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`session_feedback_additional_comments_no_personal_info`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1=""
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="727"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`default_session_feedback_rating_bar_content_description`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;default_session_feedback_rating_bar_content_description&quot;>"
+        errorLine2="            ~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="750"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`updated_session_feedback_rating_bar_content_description`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;updated_session_feedback_rating_bar_content_description&quot;>Session rating %1$d stars&lt;/string>"
+        errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="756"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`session_in_schedule_indicator_a11y`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1=""
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="760"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`welcome_enable`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;watch_now&quot;>Watch Now!&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="917"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`welcome_no_thanks`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;welcome_enable&quot;>Enable&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="920"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`welcome_select_account`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1=""
+        errorLine2="                                               ^"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="939"
+            column="48"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`welcome_around`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;!-- Short text asking if they&apos;re interested in what&apos;s around them -->"
+        errorLine2="^"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="940"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`welcome_select_accoun_text`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;!-- Short text asking them to select an account -->"
+        errorLine2="^"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="943"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`explore_sessions_show_day_n`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1=""
+        errorLine2="^"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="996"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`explore_sessions_time_slot_title`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;!-- Show the Day 1 or Day 2 as part of either the ExploreSessionsActivity title or"
+        errorLine2="^"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="997"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`explore_io_msgcards_conf_creds_card`&quot; is not translated in &quot;fr&quot; (French)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;!-- BEGIN Explore Message Card User Messages -->"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="1007"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`explore_io_msgcards_keynote_access_card`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="        description=&quot;Conference Credentials, shown the day before the event giving users general"
+        errorLine2="^"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="1015"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`explore_io_msgcards_wifi_feedback`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;it&quot; (Italian), &quot;ja&quot; (Japanese), &quot;ko&quot; (Korean), &quot;pt&quot; (Portuguese), &quot;ru&quot; (Russian), &quot;zh-CN&quot; (Chinese: China), &quot;zh-TW&quot; (Chinese: Taiwan)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="        Hours party. Remember to wear it at all times."
+        errorLine2="^"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="1020"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`explore_io_video_id_not_valid`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;/string>"
+        errorLine2="                                               ^"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="1032"
+            column="48"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`unknown_error`&quot; is not translated in &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1=""
+        errorLine2="^"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="1047"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`talkback_button`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1=""
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="1050"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`talkback_not_clickable`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;!-- This is used on the Explore I/O message cards to answer no to a particular message -->"
+        errorLine2="^"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="1054"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`talkback_image`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="         can watch a video but it turns out we can&apos;t show the video. -->"
+        errorLine2="^"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="1058"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`talkback_link`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;explore_io_video_id_not_valid&quot;>Sorry, there appears to be a problem with the video url.&lt;/string>"
+        errorLine2="                                               ^"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="1059"
+            column="48"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`talkback_selected`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;!-- END Explore Message Card User Messages -->"
+        errorLine2="                                               ^"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="1061"
+            column="48"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`talkback_not_selected`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;string name=&quot;app_data_notification_resolution_title&quot;>I/O App needs permission&lt;/string>"
+        errorLine2="^"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="1065"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`talkback_tapfor`&quot; is not translated in &quot;ar&quot; (Arabic), &quot;pt&quot; (Portuguese)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.
+
+If the string should *not* be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.
+
+By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.
+
+You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="    &lt;!-- This string is the message of the notification shown to the user when Google Play services"
+        errorLine2="^"
+        quickfix="adt">
+        <location
+            file="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values/strings.xml"
+            line="1066"
+            column="1"/>
+    </issue>
+
+</issues>

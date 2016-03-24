@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/release/values-h500dp-v13/values-h500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-h500dp/dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 660,
+                        "endColumn": 59,
+                        "endOffset": 715
+                    }
+                }
+            }
+        ]
+    }
+]

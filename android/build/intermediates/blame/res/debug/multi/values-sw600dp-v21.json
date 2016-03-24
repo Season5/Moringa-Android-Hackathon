@@ -26,32 +26,6 @@
         ]
     },
     {
-        "outputFile": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/values-sw600dp-v21/values-sw600dp-v21.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 7,
-                    "endColumn": 12,
-                    "endOffset": 344
-                },
-                "from": {
-                    "file": "/Users/tune/iosched/android/src/main/res/values-sw600dp-v21/styles.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 661,
-                        "endLine": 23,
-                        "endColumn": 12,
-                        "endOffset": 950
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/values-sw600dp-v21/values-sw600dp-v21.xml",
         "map": [
             {
@@ -65,6 +39,58 @@
                 },
                 "from": {
                     "file": "/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/res/values-sw600dp-v21/styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 661,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 950
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/build/intermediates/res/merged/debug/values-sw600dp-v21/values-sw600dp-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 344
+                },
+                "from": {
+                    "file": "/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/res/values-sw600dp-v21/styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 661,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 950
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/tune/iosched/android/build/intermediates/res/merged/debug/values-sw600dp-v21/values-sw600dp-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 344
+                },
+                "from": {
+                    "file": "/Users/tune/iosched/android/src/main/res/values-sw600dp-v21/styles.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,

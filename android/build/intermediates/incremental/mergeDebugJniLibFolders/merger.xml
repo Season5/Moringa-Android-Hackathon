@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Volumes/Projects/android-projects/Moringa-Android-Hackathon/android/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/frank/AndroidStudioProjects/Moringa-Android-Hackathon/android/src/debug/jniLibs"/></dataSet></merger>
